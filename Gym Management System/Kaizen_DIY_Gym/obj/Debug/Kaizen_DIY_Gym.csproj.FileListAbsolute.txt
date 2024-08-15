@@ -1,0 +1,37 @@
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\bin\Debug\Kaizen_DIY_Gym.exe.config
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\bin\Debug\Kaizen_DIY_Gym.exe
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\bin\Debug\Kaizen_DIY_Gym.pdb
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.exe
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.pdb
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.FormKaizeDIYGym.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Form2.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.FormNew_Member.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Form_Equipment.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Form_viewequipment.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formsearchmember.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formdeletemember.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formlogin.resources
+C:\Users\LENOVO\Desktop\C#\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formnewstaff.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\bin\Debug\Kaizen_DIY_Gym.exe.config
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\bin\Debug\Kaizen_DIY_Gym.exe
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\bin\Debug\Kaizen_DIY_Gym.pdb
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formdeletemember.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.FormKaizeDIYGym.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Form2.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formnewstaff.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formlogin.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.FormNew_Member.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Form_Equipment.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Properties.Resources.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Formsearchmember.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.Form_viewequipment.resources
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.exe
+C:\Users\LENOVO\Documents\IISExpress\gui presentation\Kaizen_DIY_Gym\Kaizen_DIY_Gym\obj\Debug\Kaizen_DIY_Gym.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaizen_DIY_Gym", "Kaizen_DIY_Gym\Kaizen_DIY_Gym.csproj", "{4DBC21CD-C6AA-4C27-A62A-944B9EF3E734}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBC21CD-C6AA-4C27-A62A-944B9EF3E734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBC21CD-C6AA-4C27-A62A-944B9EF3E734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBC21CD-C6AA-4C27-A62A-944B9EF3E734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBC21CD-C6AA-4C27-A62A-944B9EF3E734}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4956F704-833D-4CC4-AA6F-53B12A435C83}
+	EndGlobalSection
+EndGlobal
